@@ -1,6 +1,6 @@
-# Publicación 1
+# Post de Noviembre
 
-Fecha de publicación: [18/11/2023]
+Fecha de publicación: [Fecha]
 
 ## Estos días he visto Última Noche en Milán y Fingernails.
 
