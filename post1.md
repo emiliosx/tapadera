@@ -1,5 +1,5 @@
 # Publicación 1
 
-Fecha de publicación: [Fecha]
+Fecha de publicación: [18/11/2023]
 
-Contenido de la primera publicación en el blog...
+Estos días he visto Última Noche en Milán (****) y Fingernails (***).
