@@ -1,35 +1,4 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>La Tapadera</title>
-    <style>
-        /* Estilos, similar al ejemplo anterior */
-    </style>
-</head>
-<body>
+## La Tapadera
+### Cosas Variadas
 
-    <header>
-        <h1>La Tapadera</h1>
-        <p>Cosas variadas</p>
-        
-    </header>
-
-    <main>
-        <article>
-            <h3><a href="post1.md">Noviembre 18</a></h3>
-            <p>Que he visto y leído estos días</p>
-        </article>
-
-        <article>
-            <h3><a href="post2.md">Publicación 2</a></h3>
-            <p>Descripción breve de la segunda publicación...</p>
-        </article>
-        
-        <!-- Puedes agregar más artículos según sea necesario -->
-
-    </main>
-
-</body>
-</html>
+[Post1](post1.md)
